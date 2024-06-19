@@ -1,0 +1,8 @@
+[package]
+name = "rselib"
+version = "0.3.0"
+edition = "2021"
+license = "MIT"
+description = "Misc algorithms implemented for embedded usage (i.e., wasm)."
+
+[dependencies]
